@@ -11,7 +11,7 @@ terraform {
 }
 
 
-//providers.
+//providers are below
 provider "azurerm" {
     features {}
 }
