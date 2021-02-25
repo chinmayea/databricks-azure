@@ -11,7 +11,7 @@ terraform {
 }
 
 
-//providers are below. Please run
+//providers are below. Please run again
 provider "azurerm" {
     features {}
 }
