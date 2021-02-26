@@ -11,7 +11,7 @@ terraform {
 }
 
 
-//providers are below. checking in some additional changes.
+//providers are below. checking in some additional changes
 provider "azurerm" {
     features {}
 }
